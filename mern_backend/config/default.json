@@ -1,0 +1,4 @@
+{
+    "mongoURI":
+        "mongodb+srv://books:books@cluster0.xvrae.mongodb.net/books?retryWrites=true&w=majority"
+}
